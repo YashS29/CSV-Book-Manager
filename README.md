@@ -1,4 +1,41 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📚 CSV Book Manager
+
+A web application built with **Next.js** and **React.js**, deployed on **Vercel**.  
+This app allows users to upload, edit, filter, and download large CSV datasets (≈10,000 rows) with ease.  
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** [Next.js](https://nextjs.org/) (React Framework)  
+- **UI Styling:** [Tailwind CSS](https://tailwindcss.com/)  
+- **Deployment:** [Vercel](https://vercel.com/)  
+- **Version Control:** Git + GitHub  
+
+---
+
+## ✨ Features
+
+- 📤 Upload CSV files (supports large files up to 10k rows)  
+- 📊 View, filter, and edit records in an interactive table  
+- 🔍 Search and sort records  
+- 💾 Download the updated CSV file  
+- 🌐 Fully responsive UI (mobile + desktop)  
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+
+
+
+
+
 
 ## Getting Started
 
